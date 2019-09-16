@@ -1,4 +1,4 @@
-# Text-Analysis-on-Edmunds.com
+# Text Data Analysis on Edmunds.com
 
 Project from class User Generated Content Analytics.
 
